@@ -1,0 +1,25 @@
+{
+    "id": 1,
+    "image": "TODO",
+    "token_id": "1",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Test zkEVM NFT #1",
+    "description": "This NFT is my first Immutable zkEVM NFT",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Tails"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Bow Tie"
+      }
+    ]
+  }
