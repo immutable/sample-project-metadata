@@ -1,6 +1,6 @@
 {
     "name": "Immutable zkEVM Sample Project",
     "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "TODO",
+    "image": "your_image_url",
     "external_link": "https://immutable.com" 
 }
