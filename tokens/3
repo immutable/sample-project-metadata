@@ -1,6 +1,6 @@
 {
     "id": 3,
-    "image": "your_image_url",
+    "image": "https://immutable.github.io/sample-project-metadata/tokens/token3.webp",
     "token_id": "3",
     "background_color": null,
     "animation_url": null,
