@@ -1,12 +1,12 @@
 {
     "id": 2,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token2.webp",
+    "image": "https://jhesgodi.github.io/stickers-shop-metadata/tokens/token2.webp",
     "token_id": "2",
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Test zkEVM NFT #2",
-    "description": "This NFT is my second Immutable zkEVM NFT",
+    "name": "Sticker NFT #2",
+    "description": "This is my second Sticker NFT",
     "external_url": null,
     "attributes": [
       {

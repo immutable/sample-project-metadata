@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+    "name": "Stickers Shop Metadata",
+    "description": "Stickers NFT Shop",
+    "image": "https://jhesgodi.github.io/stickers-shop-metadata/collection.webp",
+    "external_link": "https://jhesgodi.github.io/stickers-shop-metadata" 
 }
